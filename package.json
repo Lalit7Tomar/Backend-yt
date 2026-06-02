@@ -1,0 +1,11 @@
+{
+  "name": "backend_yt_project",
+  "version": "1.0.0",
+  "description": "A youtube based backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Lalit Tomar",
+  "license": "ISC"
+}
