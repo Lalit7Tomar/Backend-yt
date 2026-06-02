@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A youtube based backend project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "run"
+    "dev": "nodemon src/index.js"
   },
   "author": "Lalit Tomar",
   "license": "ISC"
