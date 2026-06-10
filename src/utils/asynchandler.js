@@ -5,7 +5,7 @@ const asynchandler =(requestHandler)=>{
 }
 export {asynchandler};
 
-/*const asynchandler=(fn)=> async(req,res,next)=>{
+/*const asynchandler=(fn)=> async (req,res,next)=>{
     try{
         await fn(req,res,next);
     } catch(error){
